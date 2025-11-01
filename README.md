@@ -53,3 +53,6 @@ O projeto está hospedado na **Vercel** e pode ser acessado aqui:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/claudio-inacio/ecommerce-html-css.git
+
+<img width="1330" height="876" alt="image" src="https://github.com/user-attachments/assets/679ce459-34a2-469e-9bca-c0d5b725828c" />
+
