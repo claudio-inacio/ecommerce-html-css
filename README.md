@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido com o objetivo de **praticar e aplicar boas práticas de HTML e CSS**, simulando a estrutura de um **site de e-commerce responsivo** com listagem de produtos, carrinho de compras.
 
 ---
-👉 [ecommerce-html-css.vercel.app](https://ecommerce-html-ck30665yw-claudioinacios-projects.vercel.app)
+
 
 ## 🚀 Objetivo do Projeto
 
@@ -44,7 +44,7 @@ O principal objetivo deste projeto é **reforçar conceitos fundamentais de dese
 ## 🌐 Deploy
 
 O projeto está hospedado na **Vercel** e pode ser acessado aqui:  
-👉 https://ecommerce-html-css-peach.vercel.app/
+👉 [ecommerce-html-css.vercel.app](https://ecommerce-html-ck30665yw-claudioinacios-projects.vercel.app)
 
 ---
 
