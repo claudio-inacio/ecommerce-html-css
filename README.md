@@ -1,129 +1,54 @@
-# Entrega Construindo um E-commerce - parte 1
+# 🛍️ E-commerce HTML & CSS
 
-===========================================
-
-## Introdução
+Este projeto foi desenvolvido com o objetivo de **praticar e aplicar boas práticas de HTML e CSS**, simulando a estrutura de um **site de e-commerce responsivo** com listagem de produtos, carrinho de compras.
 
 ---
 
-Nesta entrega construiremos o layout de um e-commerce. Seguiremos um
-style guide, usaremos html e css. Bora para esse desafio?
+## 🚀 Objetivo do Projeto
 
-Iremos pegar como base esse [style
-guide](https://www.figma.com/file/c6W2gS11Dr2rVe7VUx97io/Vitrine---M1?node-id=0%3A1)
-no figma, uma plataforma de design, onde terá tanto a forma na qual
-poderá se espelhar ou fazer igual, juntamente com todas as fontes e
-cores.
+O principal objetivo deste projeto é **reforçar conceitos fundamentais de desenvolvimento front-end**, como:
 
-## Tarefa
-
-======
-
-Primeiramente recomendamos que você analise o layout e o style guide.
-**Não tenha pressa de conhecer o projeto antes de partir para ação!**
-Após a análise comece estruturando o html. Utilize todos os recursos que
-aprendeu até aqui, tags semânticas, propriedades css, reset e/ou
-normalize e dicas de boas práticas\...
-
-A captura de tela de exemplo mais abaixo mostram como o layout ficará se
-você completar as tarefas especificadas no style guide.
-
-### Tema
+- Estrutura semântica em **HTML5**  
+- Organização e componentização de estilos com **CSS3**  
+- Uso de **design responsivo** com `@media queries`  
+- Boas práticas de **acessibilidade e usabilidade**
 
 ---
 
-No layout demonstramos um e-commerce de vestuário, mas você pode definir
-um tema de sua preferência, como de jogos, pet shop, perfumarias, entre
-outros.
+## 🧠 Conceitos e Boas Práticas Aplicadas
 
-### A Estilização
+- **HTML semântico:** tags como `<main>`, `<section>`, `<article>`, `<header>` e `<footer>` para melhorar acessibilidade e SEO.  
+- **Separação de responsabilidades:** HTML apenas para estrutura, CSS apenas para estilo e JS para interatividade.  
+- **Layout responsivo:** adaptável para **desktop e mobile**, com grid e flexbox.  
+- **Boas práticas de CSS:**  
+  - Nomes de classes claros e padronizados (inspirados em BEM).  
+  - Utilização de variáveis, espaçamentos consistentes e sombras suaves.  
+  - Evita repetição e garante legibilidade.
 
 ---
 
-Cobraremos que seja seguido, pelo menos, o style guide mas você é livre
-para aprimorar como quiser. Você pode adicionar ícones, hover, etc.
+## 📱 Funcionalidades Implementadas
 
-## Passo a Passo
+- Exibição de lista de produtos com nome, imagem, descrição e preço.  
+---
 
-=============
+## 🧩 Tecnologias Utilizadas
 
-### 2 - O que faremos na parte 1
+- **HTML5**
+- **CSS3 (Flexbox, Grid e Responsividade)**
+- **Vercel** (para deploy)
 
-Nessa primeira parte do seu projeto, iremos focar na estilização e
-construção da aplicação, ou seja, iremos apenas mexer inicialmente no
-HTML, construção das tags semânticas seus locais apropriados, imagens e
-distribuição de conteúdo, como foi visto durante o curso e na
-estilização com o CSS, ou seja, \"embelezamento\" da aplicação, iremos
-trazer toda a parte de fonts, cores e posicionamento nesse momento,
-tentando nos aproximar ao máximo do que está no figma.
+---
 
-- **Header** → Com sua logo tipo, e seus botões de navegação,
-  configurados como demostrado no figma, apenas visual sem
-  funcionalidade
-- **Vitrine** → Espaço onde ficará os cards de produtos e todas as
-  suas informações
-- **Card** → Criação dos cards como demostrado acima com suas
-  respectividas informações com titulo, foto, descrição, preço e um
-  botão de adicionar ao carrinho
-- **Barra de pesquisa** →Com um input para colocar texto e um botão
-  para pesquisar - apenas visual sem funcionalidade
-- **Carrinho de compras** → Criação do local onde será coloca
-  posteriormente os produtos, iniciando vazio - apenas visual sem
-  funcionalidade
-- Estilização e alinhamento como demostrado no figma
+## 🌐 Deploy
 
-**Importante!**
+O projeto está hospedado na **Vercel** e pode ser acessado aqui:  
+👉 https://ecommerce-html-css-peach.vercel.app/
 
-1.  Precisa estar publicado em uma url no gitHubPages
-2.  Deve haver branchs de desenvolvimento com nomes apropriados
-    :::
+---
 
-**Dica!**
-Que tal ficar marcado na história esse trabalho? pelos desafios, pelo
-aprendizado e claro por todo o caminho que teve que andar para chegar
-até esse momento, tendo isso em vista! Que tal **compartilhar** nas
-redes sociais?
+## 🧑‍💻 Como Executar Localmente
 
-Um belo projeto para ficar de **portefólio** no seu **LinkedIn**, ou
-quem sabe enfeitar por um longo tempo a sua página do **Instagram**!
-Vamos lá, mostre a todos para que veio, mostre aos outros o seu
-crescimento e a diversão que está tendo com cada projeto!
-:::
-
-**Dica!**
-
-Que tal ficar marcado na história esse trabalho? pelos desafios, pelo
-aprendizado e claro por todo o caminho que teve que andar para chegar
-até esse momento, tendo isso em vista! Que tal **compartilhar** nas
-redes sociais?
-
-Um belo projeto para ficar de **portfólio** no seu **LinkedIn**, ou
-quem sabe enfeitar por um longo tempo a sua página do **Instagram**!
-Vamos lá, mostre a todos para que veio, mostre aos outros o seu
-crescimento e a diversão que está tendo com cada projeto!
-:::
-
-**Referências!**
-
-- [MDN CSS
-  Referência](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
-- [MDN CSS Reference (em
-  inglês)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [W3Schools CSS Reference (em
-  inglês)](https://www.w3schools.com/cssref/default.asp)
-- [Guia Flexbox(em
-  inglês)](https://origamid.com/projetos/flexbox-guia-completo/)
-- [byid byclass create](http://devfuria.com.br/javascript/dom/)
-- [event
-  listener](https://cibersistemas.pt/tecnologia/o-metodo-addeventlistener-codigo-de-exemplo-do-javascript-event-listener/)
-- [event listener em
-  inglês](https://devdojo.com/bo-iliev/dom-event-listeners)
-
-### 3 --- Envio
-
-Faça o push do código para o seu repositório GitHub, altere a
-visibilidade do repositório para internal e implemente-o GitHub pages.
-No Canvas, por favor, envie sua url do GitHub Pages:
-(ex:https://nomerandomico.pages.github.io/) e envie o link do seu
-repositório nos comentários. Atenção, seu repositório deverá ser
-compartilhado apenas com a organização. (Internal).
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/claudio-inacio/ecommerce-html-css.git
